@@ -1,2 +1,2 @@
 # minimialHTMLscraper
-Using lxml to scrap html 
+Using lxml to scrape html 
